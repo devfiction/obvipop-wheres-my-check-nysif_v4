@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Click Me!</string>
+	<string name="app_name">wheres.my.check.nysif.Droid</string>
+    <string name="where_s_my_check">Where\'s My Check?</string>
+	<string name="headerdivider">headerdivider</string>
+    <string name="settings_button">Settings Button</string>
+	<string name="headerlogo">headerlogo</string>
+    <string name="keep_logged_in">Keep Logged in</string>
+	<string name="forgot_password">Forgot Password</string>
+	<string name="password">Password</string>
+	<string name="login_to_nysif">Login to NYSIF</string>
+	<string name="sign_in">Sign In</string>
+	<string name="show_password">Show password</string>
+	<string name="username">Username</string>
+	<string name="new_user_sign_up_here">New User? Sign up here</string>
+	<string name="where_s_my_check_main">Where\'s My Check?</string>
+	<string name="headerlogo_main">headerlogo</string>
+	<string name="find_check">Find Check</string>
+	<string name="nysif_claim_number">* NYSIF Claim Number:</string>
+	<string name="input_claim_number">Input claim number:</string>
+	<string name="nysif_claimants_can_nd_information_on_processed_bene_t_payments_for_either_workers_compensation_or_disability_bene_ts">NYSIF claimants can ﬁnd information on processed beneﬁt payments for either workers’ compensation or disability beneﬁts.</string>
+	<string name="screen_directions">Screen Directions</string>
+	<string name="headerlogo_change">headerlogo</string>
+	<string name="new_user_registration">New User Registration</string>
+	<string name="claim_services">Claim Services</string>
+	<string name="contact_information">Contact Information</string>
+	<string name="choose_your_username_and_password">Choose your username and password</string>
+	<string name="button_submit">   Submit  </string>
+	<string name="check_result_header">These results do not include reissued payments, Section 32 settlements, or advances.</string>
+	<string name="check_result_explanation">Please contact your case manager\n regarding these type of payments.</string>
+</resources>

@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{703A41EA-546D-48AB-854B-CBF0863F53CD}</ProjectGuid>
+    <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <RootNamespace>wheres.my.check.nysif.Droid</RootNamespace>
+    <AssemblyName>wheres.my.check.nysif.Droid</AssemblyName>
+    <TargetFrameworkVersion>v6.0</TargetFrameworkVersion>
+    <AndroidApplication>True</AndroidApplication>
+    <AndroidResgenFile>Resources\Resource.designer.cs</AndroidResgenFile>
+    <AndroidResgenClass>Resource</AndroidResgenClass>
+    <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
+    <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
+    <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
+    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AndroidLinkMode>None</AndroidLinkMode>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AndroidManagedSymbols>true</AndroidManagedSymbols>
+    <AndroidUseSharedRuntime>false</AndroidUseSharedRuntime>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="Mono.Android" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\wheres.my.check.nysif\wheres.my.check.nysif.csproj">
+      <Project>{A072EDDD-F9A0-4212-9F45-2B8ABF2B4366}</Project>
+      <Name>wheres.my.check.nysif</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MainActivity.cs" />
+    <Compile Include="Resources\Resource.designer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ChangePassword.cs" />
+    <Compile Include="LoginActivity.cs" />
+    <Compile Include="DataEntryActivity.cs" />
+    <Compile Include="ForgotPasswordActivity.cs" />
+    <Compile Include="NewUserActivity.cs" />
+    <Compile Include="RegistrationSuccessActivity.cs" />
+    <Compile Include="ForgotPasswordSuccessActivity.cs" />
+    <Compile Include="DataEntryScreenSingleRowActivity.cs" />
+    <Compile Include="AboutActivity.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AboutResources.txt" />
+    <None Include="Properties\AndroidManifest.xml" />
+    <None Include="Assets\AboutAssets.txt" />
+    <AndroidResource Include="Resources\drawable\back_button.png" />
+    <AndroidResource Include="Resources\drawable\back_to_wheres_my_check_button.png" />
+    <AndroidResource Include="Resources\drawable\calendar_form_button.png" />
+    <AndroidResource Include="Resources\drawable\fb_logo.png" />
+    <AndroidResource Include="Resources\drawable\instagram_logo.png" />
+    <AndroidResource Include="Resources\drawable\nysif_logo_splash.png" />
+    <AndroidResource Include="Resources\drawable\nysif_logo_top_bar.png" />
+    <AndroidResource Include="Resources\drawable\oval_2.png" />
+    <AndroidResource Include="Resources\drawable\path_2.png" />
+    <AndroidResource Include="Resources\drawable\retrieve_button.png" />
+    <AndroidResource Include="Resources\drawable\settings_icon_active.png" />
+    <AndroidResource Include="Resources\drawable\settings_icon.png" />
+    <AndroidResource Include="Resources\drawable\submit_button.png" />
+    <AndroidResource Include="Resources\drawable\twitter_icon.png" />
+    <AndroidResource Include="Resources\drawable\youtube_icon.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\calendar_form_button.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\fb_logo.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\instagram_logo.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\nysif_logo_splash.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\nysif_logo_top_bar.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\oval_2.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\path_2.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\settings_icon_active.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\settings_icon.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\twitter_icon.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\youtube_icon.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\calendar_form_button.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\fb_logo.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\instagram_logo.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\nysif_logo_splash.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\nysif_logo_top_bar.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\oval_2.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\path_2.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\settings_icon_active.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\settings_icon.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\twitter_icon.png" />
+    <AndroidResource Include="Resources\drawable-xhdpi\youtube_icon.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\calendar_form_button.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\fb_logo.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\instagram_logo.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\nysif_logo_splash.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\nysif_logo_top_bar.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\oval_2.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\path_2.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\settings_icon_active.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\settings_icon.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\twitter_icon.png" />
+    <AndroidResource Include="Resources\drawable-xxhdpi\youtube_icon.png" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\calendar_form_button.png" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\fb_logo.png" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\instagram_logo.png" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\nysif_logo_splash.png" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\nysif_logo_top_bar.png" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\oval_2.png" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\path_2.png" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\settings_icon_active.png" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\settings_icon.png" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\twitter_icon.png" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\youtube_icon.png" />
+    <AndroidResource Include="Resources\layout\about.axml" />
+    <AndroidResource Include="Resources\layout\change_password.axml" />
+    <AndroidResource Include="Resources\layout\check_results.axml" />
+    <AndroidResource Include="Resources\layout\find_checks.axml" />
+    <AndroidResource Include="Resources\layout\forgot_password_success.axml" />
+    <AndroidResource Include="Resources\layout\forgot_password.axml" />
+    <AndroidResource Include="Resources\layout\Main.axml" />
+    <AndroidResource Include="Resources\layout\new_user_success.axml" />
+    <AndroidResource Include="Resources\layout\new_user.axml" />
+    <AndroidResource Include="Resources\layout\splash.axml" />
+    <AndroidResource Include="Resources\drawable\divider.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\mipmap-hdpi\Icon.png" />
+    <AndroidResource Include="Resources\mipmap-mdpi\Icon.png" />
+    <AndroidResource Include="Resources\mipmap-xhdpi\Icon.png" />
+    <AndroidResource Include="Resources\mipmap-xxhdpi\Icon.png" />
+    <AndroidResource Include="Resources\mipmap-xxxhdpi\Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\drawable-hdpi\" />
+    <Folder Include="Resources\drawable-xhdpi\" />
+    <Folder Include="Resources\drawable-xxhdpi\" />
+    <Folder Include="Resources\drawable-xxxhdpi\" />
+    <Folder Include="Resources\drawable\" />
+    <Folder Include="Resources\layout\" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\values\colors.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\values\dimens.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\values\strings.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\values\styles.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
+</Project>

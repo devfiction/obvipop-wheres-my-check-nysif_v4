@@ -1,0 +1,5 @@
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/wheres.my.check.nysif/bin/Debug/wheres.my.check.nysif.dll
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/wheres.my.check.nysif/bin/Debug/wheres.my.check.nysif.pdb
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/wheres.my.check.nysif/obj/Debug/wheres.my.check.nysif.csproj.CoreCompileInputs.cache
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/wheres.my.check.nysif/obj/Debug/wheres.my.check.nysif.dll
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/wheres.my.check.nysif/obj/Debug/wheres.my.check.nysif.pdb

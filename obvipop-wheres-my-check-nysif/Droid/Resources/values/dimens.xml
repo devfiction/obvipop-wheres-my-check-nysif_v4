@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_action_bar_stacked_tab_max_width">20sp</dimen>
+    <dimen name="header_text">20sp</dimen>
+    <dimen name="long_button">50dp</dimen>
+    <dimen name="button_long">90dp</dimen>
+</resources>

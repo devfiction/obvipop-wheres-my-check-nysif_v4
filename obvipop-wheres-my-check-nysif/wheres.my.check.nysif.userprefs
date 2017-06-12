@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{703A41EA-546D-48AB-854B-CBF0863F53CD}|Default" GitUserInfo="UsingMD">
+  <MonoDevelop.Ide.ItemProperties.wheres.my.check.nysif.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DB580DBC-6D6A-426C-9782-F12529704929" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="Droid/DataEntryScreenSingleRowActivity.cs" Line="204" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.wheres.my.check.nysif.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.0715f789a7621638" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

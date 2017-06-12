@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="nysif_blue">#164d6f</color>
+    <color name="nysif_grey">#424242</color>
+    <color name="nysif_teal">#367f87</color>
+    <color name="nysif_black">#424242</color>
+    <color name="nysif_red">#de0f15</color>
+</resources>

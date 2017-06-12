@@ -1,0 +1,52 @@
+wheres.my.check.nysif.Droid.MainActivity, wheres.my.check.nysif.Droid;md535ce57b2a3973e2674d4015e56d9064b.MainActivity
+wheres.my.check.nysif.Droid.MainActivity, wheres.my.check.nysif.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md535ce57b2a3973e2674d4015e56d9064b.MainActivity
+wheres.my.check.nysif.Droid.MainActivity;md535ce57b2a3973e2674d4015e56d9064b.MainActivity
+wheres.my.check.nysif.droid.MainActivity;md535ce57b2a3973e2674d4015e56d9064b.MainActivity
+wheres.my.check.nysif.Droid.ChangePassword, wheres.my.check.nysif.Droid;md535ce57b2a3973e2674d4015e56d9064b.ChangePassword
+wheres.my.check.nysif.Droid.ChangePassword, wheres.my.check.nysif.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md535ce57b2a3973e2674d4015e56d9064b.ChangePassword
+wheres.my.check.nysif.Droid.ChangePassword;md535ce57b2a3973e2674d4015e56d9064b.ChangePassword
+wheres.my.check.nysif.droid.ChangePassword;md535ce57b2a3973e2674d4015e56d9064b.ChangePassword
+wheres.my.check.nysif.Droid.LoginActivity, wheres.my.check.nysif.Droid;md535ce57b2a3973e2674d4015e56d9064b.LoginActivity
+wheres.my.check.nysif.Droid.LoginActivity, wheres.my.check.nysif.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md535ce57b2a3973e2674d4015e56d9064b.LoginActivity
+wheres.my.check.nysif.Droid.LoginActivity;md535ce57b2a3973e2674d4015e56d9064b.LoginActivity
+wheres.my.check.nysif.droid.LoginActivity;md535ce57b2a3973e2674d4015e56d9064b.LoginActivity
+wheres.my.check.nysif.Droid.DataEntryActivity, wheres.my.check.nysif.Droid;md535ce57b2a3973e2674d4015e56d9064b.DataEntryActivity
+wheres.my.check.nysif.Droid.DataEntryActivity, wheres.my.check.nysif.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md535ce57b2a3973e2674d4015e56d9064b.DataEntryActivity
+wheres.my.check.nysif.Droid.DataEntryActivity;md535ce57b2a3973e2674d4015e56d9064b.DataEntryActivity
+wheres.my.check.nysif.droid.DataEntryActivity;md535ce57b2a3973e2674d4015e56d9064b.DataEntryActivity
+wheres.my.check.nysif.Droid.DataEntryActivity/AlertListViewAdapter, wheres.my.check.nysif.Droid;md535ce57b2a3973e2674d4015e56d9064b.DataEntryActivity_AlertListViewAdapter
+wheres.my.check.nysif.Droid.DataEntryActivity+AlertListViewAdapter, wheres.my.check.nysif.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md535ce57b2a3973e2674d4015e56d9064b.DataEntryActivity_AlertListViewAdapter
+wheres.my.check.nysif.Droid.DataEntryActivity.AlertListViewAdapter;md535ce57b2a3973e2674d4015e56d9064b.DataEntryActivity_AlertListViewAdapter
+wheres.my.check.nysif.droid.DataEntryActivity_AlertListViewAdapter;md535ce57b2a3973e2674d4015e56d9064b.DataEntryActivity_AlertListViewAdapter
+wheres.my.check.nysif.Droid.ForgotPasswordActivity, wheres.my.check.nysif.Droid;md535ce57b2a3973e2674d4015e56d9064b.ForgotPasswordActivity
+wheres.my.check.nysif.Droid.ForgotPasswordActivity, wheres.my.check.nysif.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md535ce57b2a3973e2674d4015e56d9064b.ForgotPasswordActivity
+wheres.my.check.nysif.Droid.ForgotPasswordActivity;md535ce57b2a3973e2674d4015e56d9064b.ForgotPasswordActivity
+wheres.my.check.nysif.droid.ForgotPasswordActivity;md535ce57b2a3973e2674d4015e56d9064b.ForgotPasswordActivity
+wheres.my.check.nysif.Droid.NewUserActivity, wheres.my.check.nysif.Droid;md535ce57b2a3973e2674d4015e56d9064b.NewUserActivity
+wheres.my.check.nysif.Droid.NewUserActivity, wheres.my.check.nysif.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md535ce57b2a3973e2674d4015e56d9064b.NewUserActivity
+wheres.my.check.nysif.Droid.NewUserActivity;md535ce57b2a3973e2674d4015e56d9064b.NewUserActivity
+wheres.my.check.nysif.droid.NewUserActivity;md535ce57b2a3973e2674d4015e56d9064b.NewUserActivity
+wheres.my.check.nysif.Droid.RegistrationSuccessActivity, wheres.my.check.nysif.Droid;md535ce57b2a3973e2674d4015e56d9064b.RegistrationSuccessActivity
+wheres.my.check.nysif.Droid.RegistrationSuccessActivity, wheres.my.check.nysif.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md535ce57b2a3973e2674d4015e56d9064b.RegistrationSuccessActivity
+wheres.my.check.nysif.Droid.RegistrationSuccessActivity;md535ce57b2a3973e2674d4015e56d9064b.RegistrationSuccessActivity
+wheres.my.check.nysif.droid.RegistrationSuccessActivity;md535ce57b2a3973e2674d4015e56d9064b.RegistrationSuccessActivity
+wheres.my.check.nysif.Droid.ForgotPasswordSuccessActivity, wheres.my.check.nysif.Droid;md535ce57b2a3973e2674d4015e56d9064b.ForgotPasswordSuccessActivity
+wheres.my.check.nysif.Droid.ForgotPasswordSuccessActivity, wheres.my.check.nysif.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md535ce57b2a3973e2674d4015e56d9064b.ForgotPasswordSuccessActivity
+wheres.my.check.nysif.Droid.ForgotPasswordSuccessActivity;md535ce57b2a3973e2674d4015e56d9064b.ForgotPasswordSuccessActivity
+wheres.my.check.nysif.droid.ForgotPasswordSuccessActivity;md535ce57b2a3973e2674d4015e56d9064b.ForgotPasswordSuccessActivity
+wheres.my.check.nysif.Droid.DataEntryScreenSingleRowActivity, wheres.my.check.nysif.Droid;md535ce57b2a3973e2674d4015e56d9064b.DataEntryScreenSingleRowActivity
+wheres.my.check.nysif.Droid.DataEntryScreenSingleRowActivity, wheres.my.check.nysif.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md535ce57b2a3973e2674d4015e56d9064b.DataEntryScreenSingleRowActivity
+wheres.my.check.nysif.Droid.DataEntryScreenSingleRowActivity;md535ce57b2a3973e2674d4015e56d9064b.DataEntryScreenSingleRowActivity
+wheres.my.check.nysif.droid.DataEntryScreenSingleRowActivity;md535ce57b2a3973e2674d4015e56d9064b.DataEntryScreenSingleRowActivity
+wheres.my.check.nysif.Droid.DataEntryScreenSingleRowActivity/MyAdapter1, wheres.my.check.nysif.Droid;md535ce57b2a3973e2674d4015e56d9064b.DataEntryScreenSingleRowActivity_MyAdapter1
+wheres.my.check.nysif.Droid.DataEntryScreenSingleRowActivity+MyAdapter1, wheres.my.check.nysif.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md535ce57b2a3973e2674d4015e56d9064b.DataEntryScreenSingleRowActivity_MyAdapter1
+wheres.my.check.nysif.Droid.DataEntryScreenSingleRowActivity.MyAdapter1;md535ce57b2a3973e2674d4015e56d9064b.DataEntryScreenSingleRowActivity_MyAdapter1
+wheres.my.check.nysif.droid.DataEntryScreenSingleRowActivity_MyAdapter1;md535ce57b2a3973e2674d4015e56d9064b.DataEntryScreenSingleRowActivity_MyAdapter1
+wheres.my.check.nysif.Droid.DataEntryScreenSingleRowActivity/MyAdapter, wheres.my.check.nysif.Droid;md535ce57b2a3973e2674d4015e56d9064b.DataEntryScreenSingleRowActivity_MyAdapter
+wheres.my.check.nysif.Droid.DataEntryScreenSingleRowActivity+MyAdapter, wheres.my.check.nysif.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md535ce57b2a3973e2674d4015e56d9064b.DataEntryScreenSingleRowActivity_MyAdapter
+wheres.my.check.nysif.Droid.DataEntryScreenSingleRowActivity.MyAdapter;md535ce57b2a3973e2674d4015e56d9064b.DataEntryScreenSingleRowActivity_MyAdapter
+wheres.my.check.nysif.droid.DataEntryScreenSingleRowActivity_MyAdapter;md535ce57b2a3973e2674d4015e56d9064b.DataEntryScreenSingleRowActivity_MyAdapter
+wheres.my.check.nysif.Droid.AboutActivity, wheres.my.check.nysif.Droid;md535ce57b2a3973e2674d4015e56d9064b.AboutActivity
+wheres.my.check.nysif.Droid.AboutActivity, wheres.my.check.nysif.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md535ce57b2a3973e2674d4015e56d9064b.AboutActivity
+wheres.my.check.nysif.Droid.AboutActivity;md535ce57b2a3973e2674d4015e56d9064b.AboutActivity
+wheres.my.check.nysif.droid.AboutActivity;md535ce57b2a3973e2674d4015e56d9064b.AboutActivity

@@ -1,0 +1,10 @@
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/UITests/bin/Debug/wheres.my.check.nysif.UITests.dll
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/UITests/bin/Debug/wheres.my.check.nysif.UITests.pdb
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/UITests/bin/Debug/nunit.framework.dll
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/UITests/bin/Debug/Xamarin.UITest.dll
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/UITests/bin/Debug/nunit.framework.xml
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/UITests/bin/Debug/Xamarin.UITest.xml
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/UITests/obj/Debug/wheres.my.check.nysif.UITests.csprojResolveAssemblyReference.cache
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/UITests/obj/Debug/wheres.my.check.nysif.UITests.csproj.CoreCompileInputs.cache
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/UITests/obj/Debug/wheres.my.check.nysif.UITests.dll
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/UITests/obj/Debug/wheres.my.check.nysif.UITests.pdb

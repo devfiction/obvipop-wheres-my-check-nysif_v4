@@ -1,0 +1,127 @@
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/bin/iPhoneSimulator/Debug/wheres.my.check.nysif.iOS.exe
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/bin/iPhoneSimulator/Debug/wheres.my.check.nysif.iOS.pdb
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/bin/iPhoneSimulator/Debug/Calabash.dll
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/bin/iPhoneSimulator/Debug/wheres.my.check.nysif.dll
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/bin/iPhoneSimulator/Debug/wheres.my.check.nysif.pdb
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/youtube-icon.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/youtube-icon@2x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/youtube-icon@2x~iphone.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/youtube-icon@3x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/youtube-icon~ipad.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/fb-logo@2x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/fb-logo@2x~iphone.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/fb-logo@3x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/fb-logo~ipad.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/fb-logo.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/instagram_logo.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/instagram_logo@2x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/instagram_logo@2x~iphone.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/instagram_logo@3x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/instagram_logo~ipad.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/twitter-icon.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/twitter-icon@2x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/twitter-icon@2x~iphone.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/twitter-icon@3x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/twitter-icon~ipad.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/calendar-form-button.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/calendar-form-button@2x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/calendar-form-button@2x~iphone.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/calendar-form-button@3x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/calendar-form-button~ipad.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/settings-icon-active.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/settings-icon-active@2x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/settings-icon-active@2x~iphone.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/settings-icon-active@3x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/settings-icon-active~ipad.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/settings-icon.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/settings-icon@2x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/settings-icon@2x~iphone.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/settings-icon@3x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/settings-icon~ipad.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/NYSIF-logo-top-bar.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/NYSIF-logo-top-bar@2x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/NYSIF-logo-top-bar@2x~iphone.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/NYSIF-logo-top-bar@3x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/NYSIF-logo-top-bar~ipad.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/NYSIF-logo-splash.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/NYSIF-logo-splash@2x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/NYSIF-logo-splash@2x~iphone.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/NYSIF-logo-splash@3x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/NYSIF-logo-splash~ipad.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/Path 2.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/Path 2@2x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/Path 2@2x~iphone.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/Path 2@3x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/Path 2~ipad.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/Oval 2.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/Oval 2@2x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/Oval 2@2x~iphone.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/Oval 2@3x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/Oval 2~ipad.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/new_user_div.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/new_user_div@2x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/new_user_div@2x~iphone.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/new_user_div@3x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/new_user_div~ipad.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/about_div.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/about_div@2x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/about_div@2x~iphone.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/about_div@3x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/about_div~ipad.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/proto_collection.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/back_button.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/back_button@2x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/back_button@2x~iphone.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/back_button@3x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/back_button~ipad.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/retrieve_button.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/retrieve_button@2x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/retrieve_button@2x~iphone.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/retrieve_button@3x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/retrieve_button~ipad.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/go_to_login_button.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/go_to_login_button@2x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/go_to_login_button@2x~iphone.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/go_to_login_button@3x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/go_to_login_button~ipad.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/submit_button.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/submit_button@2x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/submit_button@2x~iphone.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/submit_button@3x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/submit_button~ipad.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/back_to_wheres_my_check_button.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/back_to_wheres_my_check_button@2x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/back_to_wheres_my_check_button@2x~iphone.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/back_to_wheres_my_check_button@3x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/back_to_wheres_my_check_button~ipad.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/Find check button.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/Find check button@2x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/Find check button@2x~iphone.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/Find check button@3x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/Find check button~ipad.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/Save button.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/Save button@2x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/Save button@2x~iphone.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/Save button@3x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/Save button~ipad.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/Sign in button@2x~iphone.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/Sign in button@3x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/Sign in button~ipad.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/Sign in button.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/Sign in button@2x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/back_to_button_bkgrd.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/button_background_small.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/Button Background.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/check_box.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/check_box@2x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/check_box@2x~iphone.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/check_box@3x.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/check_box~ipad.png
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/wheres.my.check.nysif.iOS.csprojResolveAssemblyReference.cache
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/wheres.my.check.nysif.iOS.csproj.CoreCompileInputs.cache
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/wheres.my.check.nysif.iOS.exe
+/Users/hamid/Documents/Work/Xamarin/obvipop-wheres-my-check-nysif_v4/obvipop-wheres-my-check-nysif/iOS/obj/iPhoneSimulator/Debug/wheres.my.check.nysif.iOS.pdb
